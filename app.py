@@ -1,4 +1,7 @@
 zemlje = ["Hrvatska", "Srbija", "BiH"]
 
 for z in zemlje:
-	print(z)
+	if z=="Hrvatska"
+		print("Moja zemlja", z)
+	else:
+		print(z)
